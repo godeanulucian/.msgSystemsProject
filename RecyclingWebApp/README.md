@@ -1,0 +1,3 @@
+# RecyclingWebApp
+
+Frontend side
